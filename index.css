@@ -12,6 +12,7 @@ body {
  grid-auto-rows: 50px;
   grid-template-rows: [header-start] 1fr [header-end] 1fr 1fr 1fr;
 grid-template-columns: 1fr 1fr 1fr;
+grid-gap: 5px;
 }
 
 .grid-item {
